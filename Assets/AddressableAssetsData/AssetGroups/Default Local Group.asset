@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5b982241301b7f243abac326ae455cc5
+  m_SerializeEntries:
+  - m_GUID: cf6f3f84b191d2445819e974805af921
+    m_Address: LoadingScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f2ba6525afbd1324b9902fcde762c3b3
+    m_Address: UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4a54c95af5a95c947bb2288c345badeb
+    m_Address: MainMenuScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 47a3741b253f088469eedd6d403dd89a
+    m_Address: Hero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b14953694d54eea4eb66f453e525024c
+    m_Address: Enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fd5236917e81e364a83712de22ddbbaa
+    m_Address: Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ed186434f65358e438f50f33b4b1bb4f
+    m_Address: EnemyCreator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7630561257621029709, guid: ed186434f65358e438f50f33b4b1bb4f,
+      type: 3}
+    m_TargetAsset: {fileID: 7630561257621029709, guid: ed186434f65358e438f50f33b4b1bb4f,
+      type: 3}
+  - m_GUID: 1fad2d719b54ac0458ae864f575787fd
+    m_Address: SpawnData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d275068bba1ff6344bd0ca6bc252b41f
+    m_Address: EndGameWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e007a45464bad3448aab47cc53cd5ed2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 097292a3d70bc534d875339e5a0278d0, type: 2}
+    - {fileID: 11400000, guid: ebd8cc5f7a104f145a38ecd1aac2a951, type: 2}
